@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  player.cpp
+D:\UPF\4t\3Trim\JocsElectronics\2D-JOC\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+D:\UPF\4t\3Trim\JocsElectronics\2D-JOC\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+D:\UPF\4t\3Trim\JocsElectronics\2D-JOC\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+D:\UPF\4t\3Trim\JocsElectronics\2D-JOC\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+framework.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/INCREMENTAL:NO'
+  visual.vcxproj -> D:\UPF\4t\3Trim\JocsElectronics\2D-JOC\visual\visual\..\..\Game.exe
